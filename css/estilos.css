@@ -1,0 +1,9 @@
+.nuevo{
+    background: url(../imagenes/icons/add.png) !important;
+}
+.modificar{
+    background: url(../imagenes/icons/editar.png) !important;
+}
+.eliminar{
+    background: url(../imagenes/icons/delete.png) !important;
+}
